@@ -1,0 +1,3 @@
+# Northerly Labs internal tools — stdlib-only runtime.
+# Pin only if you add dev dependencies later.
+# pytest>=8.0.0
